@@ -1,5 +1,6 @@
 # IranianCar_Detector_Classifier
 In this work, we have a set of 5 cars for which we want to develop classifiers and detectors. 
+
 Collection of cars on the list now: 
 1) Iran Khodro Dena and Dena Plus 
 2) Kia Cerato 
@@ -9,6 +10,7 @@ Collection of cars on the list now:
 
 This is done voluntarily. 
 To collect data, car sales websites (شیپور) have been used, which have been collected via web crawling.
+
 for classifing bellow algorithms are used :
 1) my own CNN network
 2) MobileNetV2 pre-trained model
