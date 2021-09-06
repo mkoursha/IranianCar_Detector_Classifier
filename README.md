@@ -17,6 +17,7 @@ for classifing bellow models are used :
 3) YOLO-v4 tiny
 
 for detection bellow model is used:
+
 YOLO-v4 tiny
 
 we have some conditions on our models :
