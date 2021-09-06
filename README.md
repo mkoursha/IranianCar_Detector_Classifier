@@ -9,12 +9,15 @@ Collection of cars on the list now:
 5) Saipa Saina 
 
 This is done voluntarily. 
-To collect data, car sales websites (شیپور) have been used, which have been collected via web crawling.
+To collect data, car sales websites (e.g. : شیپور) have been used, which have been collected via web crawling.
 
-for classifing bellow algorithms are used :
-1) my own CNN network
+for classifing bellow models are used :
+1) my own CNN model
 2) MobileNetV2 pre-trained model
 3) YOLO-v4 tiny
+
+for detection bellow model is used:
+YOLO-v4 tiny
 
 we have some conditions on our models :
 1) CNN model can't has more than 2M parameters
