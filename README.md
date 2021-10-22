@@ -24,3 +24,5 @@ we have some conditions on our models :
 1) CNN model can't has more than 2M parameters
 2) MobileNetV2 model can't has more than 3M parameters
 3) YOLO model can't has more than 6M parameters
+
+
