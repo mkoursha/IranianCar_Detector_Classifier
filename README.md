@@ -26,3 +26,9 @@ we have some conditions on our models :
 3) YOLO model can't has more than 6M parameters
 
 
+
+
+
+
+
+
